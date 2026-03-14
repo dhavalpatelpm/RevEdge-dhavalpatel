@@ -6,7 +6,8 @@
 
 ## ✨ Live Demo
 
-Deploy on Netlify in 30 seconds — drag & drop `index.html` at [[netlify.com](https://netlify.com)]https://rev-edge-dhavalpatel.netlify.com
+Deploy on Netlify in 30 seconds — drag & drop `index.html` at [netlify.com](https://netlify.com)https://rev-edge-dhavalpatel.netlify.app/
+
 ---
 
 ## 🎯 What is RevEdge?
