@@ -96,12 +96,7 @@ This mirrors the **Ebbinghaus Forgetting Curve** — the most proven method to m
 3. Source: Deploy from branch → `main` → `/ (root)`
 4. Your app will be live at `https://yourusername.github.io/RevEdge`
 
-### Option 3 — Replit
-1. Go to [replit.com](https://replit.com) → New Repl → HTML/CSS/JS
-2. Replace `index.html` content with this file
-3. Hit **Run** → share the live URL
-
-### Option 4 — Local
+### Option 3 — Local
 Just open `index.html` in any browser. No server needed.
 
 ---
@@ -185,6 +180,6 @@ MIT License — free to use, modify, and share.
 ---
 
 <div align="center">
-  <strong>Made with ❤️ for every exam aspirant grinding it out</strong><br/>
+  <strong>Made with ❤️ by Dhaval Patel, for every exam aspirant grinding it out</strong><br/>
   <sub>RevEdge — Your Revision. Your Edge.</sub>
 </div>
