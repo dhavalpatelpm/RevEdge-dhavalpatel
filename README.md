@@ -8,6 +8,8 @@
 
 Deploy on Netlify in 30 seconds — drag & drop `index.html` at [netlify.com](https://netlify.com)https://rev-edge-dhavalpatel.netlify.app/
 
+Netlify: https://rev-edge-dhavalpatel.netlify.app/
+Vercel : https://revedge1-dhavalpatel-pxiuu550p-dhavalpatelpms-projects.vercel.app/
 ---
 
 ## 🎯 What is RevEdge?
